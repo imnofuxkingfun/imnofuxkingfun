@@ -1,4 +1,7 @@
-## Hi there 👋
+..welcome to the mess i call my github grounds..
+## Hy! Im Luca 🌙
+- currently working on becoming a note-worthy programmer and artist
+
 
 <!--
 **imnofuxkingfun/imnofuxkingfun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
